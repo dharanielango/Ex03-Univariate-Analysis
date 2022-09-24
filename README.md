@@ -50,16 +50,26 @@ sns.histplot(x='Postal Code',data=df)
 ```
 ## Output:
 ### Dataset:
-![o](
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/1.png)
 ### Head:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/2.png)
 ### Info:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/3.png)
 ### Describe:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/4.png)
 ### Isnull:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/5.png)
 ### dtypes:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/6.png)
 ### Valuecount:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/7.png)
 ### Boxplot:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/8.png)
 ### Countplot:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/9.png)
 ### Distribution plot:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/10.png)
 ### Histogram plot:
+![o](https://github.com/dharanielango/Ex03-Univariate-Analysis/blob/main/11.png)
 ## Result:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
