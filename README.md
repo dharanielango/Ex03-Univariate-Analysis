@@ -50,7 +50,7 @@ sns.histplot(x='Postal Code',data=df)
 ```
 ## Output:
 ### Dataset:
-
+![o](
 ### Head:
 ### Info:
 ### Describe:
